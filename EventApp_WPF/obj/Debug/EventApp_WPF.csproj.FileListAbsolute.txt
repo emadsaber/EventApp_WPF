@@ -1,0 +1,16 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\bin\Debug\EventApp_WPF.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\bin\Debug\EventApp_WPF.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\bin\Debug\EventApp_WPF.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.g.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.pdb
+C:\Users\LENOVO\Source\Repos\EventApp_WPF\EventApp_WPF\bin\Debug\EventApp_WPF.exe.config
+C:\Users\LENOVO\Source\Repos\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.exe
+C:\Users\LENOVO\Source\Repos\EventApp_WPF\EventApp_WPF\obj\Debug\EventApp_WPF.pdb
